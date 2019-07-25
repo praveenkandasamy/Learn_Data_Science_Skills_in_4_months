@@ -3,7 +3,7 @@ Learn_Data_Science_Skills_in_4_months
 
 # Rationale
 I currently work a Performance Analyst, predominately using tools such as Power BI, R, Excel and VBA.
-My create reports and facilitatae performance improvement sessions for relevant teams.
+I create reports and facilitate performance improvement sessions for relevant teams.
 Work is experiencing a lot of changes currently, the skills i learn over the next 4 months will help me advance my career.
 
 # Overview
@@ -14,9 +14,10 @@ My plan is to study hard for 4 months and then take a well deserved break in Dec
 
 # 4 Month Curriculam
 ## Week 1-4 August
-Course 2 & 3 R Programming $ Getting and Cleaning Data
+Course 3  Getting and Cleaning Data
 
 ## Week 5-8 September
+Course 2 R Programming $
 Course 5 Exploratory Data Analysis
 
 ## Week 9-12 October
