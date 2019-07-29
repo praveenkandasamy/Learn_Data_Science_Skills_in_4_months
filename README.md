@@ -16,10 +16,12 @@ My plan is to study hard for 4 months and then take a well deserved break in Dec
 # 4 Month Curriculam
 ## Week 1-4 August
 Course 3  Getting and Cleaning Data
+SQL Edx course - learn how to build a Azure DB and connect to it
 
 ## Week 5-8 September
-Course 2 R Programming $
+Course 2 R Programming 
 Course 5 Exploratory Data Analysis
+Power BI certification
 
 ## Week 9-12 October
 Course 6 Reproducible Research
@@ -27,10 +29,13 @@ Course 6 Reproducible Research
 ## Week 13-16 November
 Course 7 Reproducible Research
 
-## Week 5-8
-Spratan Competition and rest and relax
+## Week 5-8 December
+Spratan Competition and rest and relax for Summer
+Loads of working out and Yoga in the mornings
+
 
 ##2020 
+New Challenges
 
 ### credits
 credit for Siraj for inspiring me to create this Git hub page
