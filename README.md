@@ -17,6 +17,7 @@ My plan is to study hard for 4 months and then take a well deserved break in Dec
 ## Week 1-4 August
 Course 3  Getting and Cleaning Data
 SQL Edx course - learn how to build a Azure DB and connect to it
+SQL for Newbs on Udemy - Course is no longer than 5 hours , finish watching and doing mysql excercises by end of month
 
 ## Week 5-8 September
 Course 2 R Programming 
