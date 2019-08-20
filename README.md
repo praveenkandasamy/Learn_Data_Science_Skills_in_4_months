@@ -1,10 +1,15 @@
+
+
+
 # Learn_Data_Science_Skills_in_4_months
 Learn_Data_Science_Skills_in_4_months
 
 # Rationale
 ## Career advancement, enjoyment, make more money, launch a company/ product/ app / idea/ concept
 I currently work a Performance Analyst, predominately using tools such as Power BI, R, Excel and VBA.
-I create reports and facilitate performance improvement sessions for relevant teams.
+I create reports and facilitate performance ![](https://github.com/praveenkandasamy/Learn_Data_Science_Skills_in_4_months/blob/master/Images/pretty_image.png)
+
+improvement sessions for relevant teams.
 Work is experiencing a lot of changes currently, the skills i learn over the next 4 months will help me advance my career.
 
 # Overview
@@ -45,6 +50,7 @@ https://github.com/llSourcell
 
 
 
-
-
 ![](images/pretty_image.png)
+
+![](https://github.com/praveenkandasamy/Learn_Data_Science_Skills_in_4_months/blob/master/Images/pretty_image.png)
+
