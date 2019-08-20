@@ -41,6 +41,8 @@ Loads of working out and Yoga in the mornings
 ##Image Test
 ![](images/pretty_image.png)
 
+##Image Test2
+![](https://github.com/praveenkandasamy/Learn_Data_Science_Skills_in_4_months/blob/master/Images/pretty_image.png)
 
 ##2020 
 New Challenges
