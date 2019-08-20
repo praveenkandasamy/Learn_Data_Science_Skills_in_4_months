@@ -47,4 +47,3 @@ credit for Siraj for inspiring me to create this Git hub page
 Siraj Ravals Git Hub posts
 https://github.com/llSourcell
 
-![](Images/pretty_image.png)
