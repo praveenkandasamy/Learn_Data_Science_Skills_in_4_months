@@ -1,5 +1,5 @@
 
-![](Images/pretty_image.png)
+
 
 # Learn_Data_Science_Skills_in_4_months
 Learn_Data_Science_Skills_in_4_months
@@ -47,9 +47,4 @@ credit for Siraj for inspiring me to create this Git hub page
 Siraj Ravals Git Hub posts
 https://github.com/llSourcell
 
-
-
-![](images/pretty_image.png)
-
-![](https://github.com/praveenkandasamy/Learn_Data_Science_Skills_in_4_months/blob/master/Images/pretty_image.png)
-
+![](Images/pretty_image.png)
