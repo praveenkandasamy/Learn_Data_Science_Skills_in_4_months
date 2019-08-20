@@ -38,6 +38,9 @@ Course 7 Reproducible Research
 Spratan Competition and rest and relax for Summer
 Loads of working out and Yoga in the mornings
 
+##Image Test
+![](images/pretty_image.png)
+
 
 ##2020 
 New Challenges
