@@ -24,15 +24,15 @@ SQL Edx course - learn how to build a Azure DB and connect to it
 SQL for Newbs on Udemy - Course is no longer than 5 hours , finish watching and doing mysql excercises by end of month
 
 ## Week 5-8 September
-Course 2 R Programming 
-Course 5 Exploratory Data Analysis
+Course 2 R Programming
+DAX course
+M language
 Power BI certification
 
 ## Week 9-12 October
-Course 6 Reproducible Research
+
 
 ## Week 13-16 November
-Course 7 Reproducible Research
 
 ## Week 5-8 December
 Spratan Competition and rest and relax for Summer
