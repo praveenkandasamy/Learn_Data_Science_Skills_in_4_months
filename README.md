@@ -23,14 +23,18 @@ Course 3  Getting and Cleaning Data
 SQL Edx course - learn how to build a Azure DB and connect to it
 SQL for Newbs on Udemy - Course is no longer than 5 hours , finish watching and doing mysql excercises by end of month
 
+### Average month - startyed on SQL-T and didnt complete any courese
+### pushging forward the content SQL - T content, abondoning the rest for now
+
 ## Week 5-8 September
-Course 2 R Programming
+~ Course 2 R Programming
 DAX course
 M language
 Power BI certification
 
-## Week 9-12 October
+SQL Edx course - learn how to build a Azure DB and connect to it
 
+## Week 9-12 October
 
 ## Week 13-16 November
 
